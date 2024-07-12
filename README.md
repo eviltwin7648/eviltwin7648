@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **NextJs14**
 
-- 👨‍💻 All of my projects are available at [eviltwin7648.github.io/](eviltwin7648.github.io/)
+- 👨‍💻 All of my projects are available at [https://portfolio-one-ruddy-35.vercel.app/](https://portfolio-one-ruddy-35.vercel.app/)
 
-- 💬 Ask me about **Web Development and Penetration Testing.**
+- 💬 Ask me about **Web Development.**
 
 - 📫 How to reach me **vishalrai10342@gmail.com**
 
