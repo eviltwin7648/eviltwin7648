@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-one-ruddy-35.vercel.app/](https://portfolio-one-ruddy-35.vercel.app/)
 
-- 💬 Ask me about **Web Development.**
-
 - 📫 How to reach me **vishalrai10342@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eviltwin7648&show_icons=true&locale=en&layout=compact" alt="eviltwin7648" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eviltwin7648&show_icons=true&locale=en" alt="eviltwin7648" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eviltwin7648&" alt="eviltwin7648" /></p>
 
