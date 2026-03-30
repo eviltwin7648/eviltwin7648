@@ -1,64 +1,44 @@
-# Hi, I'm Vishal 👋  
-Backend Engineer • Distributed Systems • Node/TypeScript
+<!-- GitHub Profile README — vishal -->
 
-I build backend systems with a focus on clean architecture, reliability, and scalability.  
-Recently worked on real-world event-driven workflows: queues, DLX routing, retries, schedulers, payments, pipelines, and CRM workflows.
+## hi, i'm vishal 👾
 
----
-
-## 🚀 What I'm working on
-- **Open-source Job Runner** — distributed workers, DLX, retries, backoff, heartbeats, logs  
-- **Case studies** on real backend problems (queues, APIs, webhooks, scaling patterns)  
-- Improving skills in **WebSockets**, **streaming systems**, and **infra fundamentals**
+> backend engineer obsessed with distributed systems, async workflows, and things that don't break at 3am.
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** TypeScript, JavaScript, Bash, GO (learning)
-- **Backend:** Node.js, Express,   
-- **Databases:** PostgreSQL, MySQL, Redis  
-- **Messaging:** RabbitMQ (DLX, TTL, retries, schedulers), Streams (learning)  
-- **Infra:** Docker, Nginx, AWS basics  
-- **Other:** REST APIs, authentication, payment flows, multi-tenant systems
+### stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat&logo=typescript&logoColor=3178c6)
+![Go](https://img.shields.io/badge/Go-0d1117?style=flat&logo=go&logoColor=00add8)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat&logo=nodedotjs&logoColor=3fb950)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=4169e1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat&logo=mongodb&logoColor=47a248)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0d1117?style=flat&logo=rabbitmq&logoColor=ff6600)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat&logo=redis&logoColor=dc382d)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=2496ed)
+![AWS](https://img.shields.io/badge/AWS_EC2-0d1117?style=flat&logo=amazonaws&logoColor=ff9900)
 
 ---
 
-## 📦 Highlighted Projects (more coming soon)
-### 🔹 Job Runner (WIP)
-A distributed job execution system with:
-- Worker registration & heartbeats  
-- DLX + TTL based retry & scheduling  
-- Structured logs + status tracking  
-- Multi-tenant execution model  
+### things i've built
 
-### 🔹 CRM System Internals
-- Lead scoring engine  
-- Deal probability engine  
-- Webhook pipeline  
-- Payments + Razorpay subscription workflows  
-- Queue-backed notification system
+**[DevFleet](https://github.com/vishal/devfleet)** — distributed job orchestration platform. immediate, delayed & cron jobs with exponential backoff, a Go execution agent (`os/exec` + context timeouts), and a full state machine (CREATED → RUNNING → SUCCESS/FAILED/TIMEOUT).  
+`Node.js` `BullMQ` `Go` `PostgreSQL` `Redis`
+
+**[Digital Wallet](https://github.com/vishal/digital-wallet)** — bank-webhook-driven P2P transactions in a Turborepo monorepo. NextAuth, Prisma, deployed to AWS EC2 via Docker + CI/CD.  
+`Next.js` `Prisma` `PostgreSQL` `AWS EC2`
 
 ---
 
-## 📝 Writing
-I share backend engineering insights on:
-- Distributed systems patterns  
-- Real debugging stories  
-- Queue design (DLX, retries, idempotency)  
-- Webhooks & async workflows  
-- System design fundamentals
+### homelab
 
-Follow me on X: **[@eviltwin7648](https://twitter.com/eviltwin7648)**
+```
+arch laptop  ──── tailscale ────  titan (ubuntu server)
+                                      └─ docker workloads
+```
 
----
-
-## 📫 Reach Me
-- X: **@eviltwin7648**  
-- GitHub: **this profile**  
-- Open to remote backend roles
+two machines. one mesh. zero downtime goals.
 
 ---
 
-## ⚡ Fun fact
-I enjoy diving into system internals and simplifying complex architectures into practical, production-friendly solutions.
-
+<!-- currently: building at AntarAI · async everything · always shipping -->
