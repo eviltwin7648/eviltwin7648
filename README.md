@@ -22,7 +22,7 @@
 
 ### things i've built
 
-**[DevFleet](https://github.com/vishal/devfleet)** — distributed job orchestration platform. immediate, delayed & cron jobs with exponential backoff, a Go execution agent (`os/exec` + context timeouts), and a full state machine (CREATED → RUNNING → SUCCESS/FAILED/TIMEOUT).  
+**[DevFleet](https://github.com/eviltwin7648/devfleet)** — a self-hosted distributed job execution platform that lets you run, schedule, and monitor workloads across remote agents with real-time logs, fault-tolerant job processing, and scalable orchestration..  
 `Node.js` `BullMQ` `Go` `PostgreSQL` `Redis`
 
 **[Digital Wallet](https://github.com/vishal/digital-wallet)** — bank-webhook-driven P2P transactions in a Turborepo monorepo. NextAuth, Prisma, deployed to AWS EC2 via Docker + CI/CD.  
