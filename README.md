@@ -32,7 +32,7 @@ Go · pgvector · OpenAI Embeddings · PostgreSQL · RAG
 
 ---
 
-**llm-gateway** *(in progress)* — LLM reverse proxy with semantic caching, provider fallback, and cost attribution.
+**[llm-gateway](https://github.com/eviltwin7648/llm-gateway)** *(in progress)* — LLM reverse proxy with semantic caching, provider fallback, and cost attribution.
 
 drop-in layer between your app and any OpenAI-compatible endpoint. Redis semantic cache cuts redundant API calls. per-model cost tracking in PostgreSQL. p95 latency metrics. retry with exponential backoff + jitter on provider rate limits.
 
